@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 📚 Languages
+### 📚 Languages
 
 #### Backend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat)
