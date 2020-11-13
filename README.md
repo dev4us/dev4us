@@ -41,3 +41,7 @@ If you want to contact me, Please leave me a message : )
 #### Under Study
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat)
+
+### 📫 Contacts
+- [email](public.dev4us@gmail.com)
+- [blog](dev4us.github.io)
