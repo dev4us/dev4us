@@ -1,4 +1,7 @@
 ### Hi there 👋
+What a nice day! I am a Developer who likes Writing and Design, and I Always want to be a Full-Stack Developer.
+
+If you want to contact me, Please leave me a message : )
 
 ### 📚 Languages
 
