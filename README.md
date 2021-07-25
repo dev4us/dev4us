@@ -6,7 +6,6 @@ If you want to contact me, Please leave me a message : )
 ### 📚 Languages
 
 #### Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat)
@@ -15,6 +14,7 @@ If you want to contact me, Please leave me a message : )
 
 
 #### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?logo=Apollo%20GraphQL&logoColor=white&style=flat)
