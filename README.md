@@ -44,4 +44,4 @@ If you want to contact me, Please leave me a message : )
 
 ### 📫 Contacts
 - [email](public.dev4us@gmail.com)
-- [blog](dev4us.github.io)
+- [blog](https://dev4us.tistory.com)
