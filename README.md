@@ -7,6 +7,7 @@ If you want to contact me, Please leave me a message : )
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-ff230c?logo=NestJS&logoColor=white&style=flat)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat)
